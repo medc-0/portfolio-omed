@@ -1,0 +1,23 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="2" width="28" height="28" rx="9" fill="#020617"/>
+  <rect x="3.5" y="3.5" width="25" height="25" rx="8" fill="url(#grad)"/>
+  <rect x="6.5" y="6.5" width="19" height="19" rx="6" fill="#020617"/>
+  <path d="M11 21.5V10.5H14.2C16.7 10.5 18.2 11.8 18.2 13.9C18.2 15.8 17.1 17 15.5 17.3L19.2 21.5H17L13.9 17.6H13V21.5H11ZM13 16H14.2C15.7 16 16.7 15.3 16.7 14C16.7 12.7 15.8 12 14.2 12H13V16Z" fill="#E5E7EB"/>
+  <defs>
+    <linearGradient id="grad" x1="4" y1="4" x2="28" y2="28" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+  </defs>
+</svg>
+
+{
+  "cells": [],
+  "metadata": {
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 2
+}
