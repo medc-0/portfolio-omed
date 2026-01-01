@@ -19,7 +19,6 @@ export const App: React.FC = () => {
         <Projects />
 
         <footer className="mt-1 border-t border-white/5 pt-3 text-xs text-slate-500 sm:flex sm:items-center sm:justify-between">
-          <p>© {new Date().getFullYear()} Omed. All rights reserved.</p>
           <p className="mt-1 sm:mt-0">Built with React & Tailwind CSS.</p>
         </footer>
       </div>
